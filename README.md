@@ -10,6 +10,8 @@
 
 # Member
 ## 2017
+* [prakasshrestha](https://github.com/prakasshrestha)
+* [dahal santosh](https://github.com/dahalsantosh)
 
 ## 2016
 * [馬金文](https://github.com/MaJinWen123)
