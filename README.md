@@ -5,7 +5,7 @@
 
 ユビキタス情報システムを研究する学生の集まりである。
 
-# Director
+# Supervisor
 * [Hong Chen](https://github.com/chen420)
 
 # Member
