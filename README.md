@@ -5,6 +5,9 @@
 
 ユビキタス情報システムを研究する学生の集まりである。
 
+# Director
+[Hong Chen](https://github.com/chen420)
+
 # Member
 ## 2017
 
@@ -14,8 +17,9 @@
 # Projects
 
 # Repositories
+* https://github.com/ubiclub/
 
 # Related Pages
-* http://uislab.github.io
-* http://ubiclub.github.io
-* http://edu2web.github.io
+* https://uislab.github.io
+* https://ubiclub.github.io
+* https://edu2web.github.io
