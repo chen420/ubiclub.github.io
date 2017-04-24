@@ -11,7 +11,7 @@
 # Member
 ## 2017
 * [prakasshrestha](https://prakasshrestha.github.io)
-* [dahal santosh](https://dahalsantosh.github.io))
+* [dahal santosh](https://dahalsantosh.github.io)
 
 ## 2016
 * [馬金文](https://github.com/MaJinWen123
