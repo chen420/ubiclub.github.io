@@ -1,5 +1,5 @@
 # Ubiquitous Club
-# ユビキタス・クラブ
+# [ユビキタス・クラブ](http://ubi.ditu.jp/)
 
 ユビキタス・クラブは、第一工業大学・上野キャンパスの学生クラブである。
 
@@ -14,12 +14,12 @@
 
 # Member
 ## 2017
-* [prakasshrestha](https://prakasshrestha.github.io)
-* [dahal santosh](https://dahalsantosh.github.io)
+* [prakasshrestha](https://github.com/prakasshrestha)
+* [dahal santosh](https://github.com/dahalsantosh)
 
 ## 2016
 * [馬金文](https://github.com/MaJinWen123)
-* [趙泳旭](http://yongxu0424.github.io)
+* [趙泳旭](http://github.com/yongxu0424)
 
 # Projects
 * Android, iPhoneアプリの開発チーム (月曜四限)
